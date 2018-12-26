@@ -22,5 +22,12 @@ This process will downlaod most of the confi files fro several vendors.
 - Select the "refresh" icon  
 ![Eclipse Packs](images/eclips_packs.png)
 
+# Update Stlink to  Jlink
+Go to the following link:  
+https://www.segger.com/downloads/jlink/#STLink_Reflash
+
+
+
+
 
 
