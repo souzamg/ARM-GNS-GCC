@@ -24,7 +24,8 @@ This process will downlaod most of the confi files fro several vendors.
 
 # Update Stlink to  Jlink
 Go to the following link:  
-https://www.segger.com/downloads/jlink/#STLink_Reflash
+https://www.segger.com/downloads/jlink/#STLink_Reflash  
+![STLink to Jlink](images/STLink2Jlink.png)
 
 
 
