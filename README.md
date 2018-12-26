@@ -18,6 +18,7 @@ Download the latest GCC ARM toolchain:
 
 # Download packs for Eclipse
 This process will downlaod most of the confi files fro several vendors.  
+![Eclipse Packs](images/eclips_packs.png)
 
 
 
