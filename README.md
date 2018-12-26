@@ -36,10 +36,7 @@ On Eclispe :
 - Type on the filter "Segger"  
 - Select "Global SEGGER J-Link Path"  
 - Set the folder for where the Jlink pacakge is installed, on this example: C:\Program Files (x86)\SEGGER\JLink_V640
-
-
-
-C:\Program Files (x86)\SEGGER\JLink_V640
+![SeggerGDBServerCL Setup](images/SeggerGDBServerCL.png)
 
 
 
