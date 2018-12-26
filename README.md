@@ -27,7 +27,19 @@ Go to the following link:
 https://www.segger.com/downloads/jlink/#STLink_Reflash  
 ![STLink to Jlink](images/STLink2Jlink.png)
 
+# Install Jlink package
 
+# Set Eclipse to the Jlink tools path
+
+On Eclispe : 
+- Menu: Windows > Preferences  
+- Type on the filter "Segger"  
+- Select "Global SEGGER J-Link Path"  
+- Set the folder for where the Jlink pacakge is installed, on this example: C:\Program Files (x86)\SEGGER\JLink_V640
+
+
+
+C:\Program Files (x86)\SEGGER\JLink_V640
 
 
 
