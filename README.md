@@ -16,5 +16,8 @@ Install all components of it.
 Download the latest GCC ARM toolchain:  
 [GCC ARM Toolchain link](https://developer.arm.com/open-source/gnu-toolchain/gnu-rm/downloads)
 
+# Download packs for Eclipse
+This process will downlaod most of the confi files fro several vendors.  
+
 
 
